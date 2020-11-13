@@ -1,6 +1,10 @@
-# Ý tưởng bài tập
-## Kết quả chạy autograder
-<img src="./images/resultAutograder.png">
+# INT3401-8
+Trí tuệ nhân tạo - Bài tập
+# **CLASSFICATION**
+
+## Kết quả chạy autograder.py
+<img src="./images/resultAutograder.png" width="400" title="DFS on tinyMaze"/>
+
 
 ## Q1 : Perceptron
 ` python dataClassifier.py -c perceptron `
